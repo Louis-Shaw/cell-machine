@@ -7,7 +7,7 @@ import field.Field;
 import field.View;
 
 public class CellMachine {
-
+	//now we are on product branch
 	public static void main(String[] args) {
 		Field field = new Field(30,30);
 		for ( int row = 0; row<field.getHeight(); row++ ) {
