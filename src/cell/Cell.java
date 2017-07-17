@@ -4,7 +4,7 @@ import java.awt.Graphics;
  
 public class Cell {
 	private boolean alive = false;
-	
+	//add to some dev branch
 	public void die() { alive = false; }
 	public void reborn() { alive = true; }
 	public boolean isAlive() { return alive; }
